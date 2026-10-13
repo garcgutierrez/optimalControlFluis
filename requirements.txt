@@ -1,0 +1,5 @@
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+# optional, only for the quasi-linear model and the policy search (qlmodel.py, ql_*.py, pdrag_extra.py):
+# jax>=0.4

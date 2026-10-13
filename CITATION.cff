@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "How optimal is linear control? Code and data"
+type: software
+license: MIT
+authors:
+  - family-names: "García Gutiérrez"
+    given-names: "Adrián"
+    affiliation: "I4 institute, Universidad de León, Spain"
+preferred-citation:
+  type: article
+  title: "How optimal is linear control? Linear feedback versus unrestricted optimal control of transient bursts in turbulent channels"
+  authors:
+    - family-names: "García Gutiérrez"
+      given-names: "Adrián"
+  # journal, year, volume, doi: to be completed upon publication
